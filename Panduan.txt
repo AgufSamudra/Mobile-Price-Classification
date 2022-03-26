@@ -1,0 +1,3 @@
+Kalian bisa melihatnya langsung pada file ipynb, di sana tercatat deskripsi apa yang sedang di kerjakan. Bila kalian ingin mencobanya, pada folder dataset terdapat data.csv yang kita gunakan.
+
+Selamat menggunakan
